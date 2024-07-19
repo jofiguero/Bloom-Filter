@@ -2,6 +2,7 @@
 #include <vector>
 #include <cstdlib>
 #include <ctime>
+
 using namespace std; 
 // Función para verificar si un número es primo
 bool isPrime(int n) {
@@ -84,21 +85,21 @@ public:
     }
 };
 
-int main() {
-    BloomFilter bf(100, 3, 10); // Crear un filtro de Bloom con un bit array de tamaño 100 y 3 funciones hash
-
-    char str1[] = "hello";
-    char str2[] = "world";
-    char str3[] = "test";
-    char str4[] = "bloom";
-
-    bf.add(str1);
-    bf.add(str2);
-
-    cout << "Contains 'hello': " << bf.contains(str1) << endl; // Debería imprimir 1 (true)
-    cout << "Contains 'world': " << bf.contains(str2) << endl; // Debería imprimir 1 (true)
-    cout << "Contains 'test': " << bf.contains(str3) << endl;  // Podría imprimir 0 (false)
-    cout << "Contains 'bloom': " << bf.contains(str4) << endl; // Podría imprimir 0 (false)
-
-    return 0;
-}
+//int main() {
+//    BloomFilter bf(100, 3, 10); // Crear un filtro de Bloom con un bit array de tamaño 100 y 3 funciones hash
+//
+//    char str1[] = "hello";
+//    char str2[] = "world";
+//    char str3[] = "test";
+//    char str4[] = "bloom";
+//
+//    bf.add(str1);
+//    bf.add(str2);
+//
+//    cout << "Contains 'hello': " << bf.contains(str1) << endl; // Debería imprimir 1 (true)
+//    cout << "Contains 'world': " << bf.contains(str2) << endl; // Debería imprimir 1 (true)
+//    cout << "Contains 'test': " << bf.contains(str3) << endl;  // Podría imprimir 0 (false)
+//    cout << "Contains 'bloom': " << bf.contains(str4) << endl; // Podría imprimir 0 (false)
+//
+//    return 0;
+//}
