@@ -1,0 +1,350 @@
+Comienza el experimento para (1024,0.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:1.000000
+Tiempo de busqueda con filtro de Bloom: 24645
+Tiempo de busqueda sin filtro de Bloom: 140
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.388672
+Tiempo de busqueda con filtro de Bloom: 9215
+Tiempo de busqueda sin filtro de Bloom: 250
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.388672
+Tiempo de busqueda con filtro de Bloom: 9331
+Tiempo de busqueda sin filtro de Bloom: 157
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.388672
+Tiempo de busqueda con filtro de Bloom: 10033
+Tiempo de busqueda sin filtro de Bloom: 141
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.388672
+Tiempo de busqueda con filtro de Bloom: 7501
+Tiempo de busqueda sin filtro de Bloom: 125
+
+------------------------------------------------------------------
+Comienza el experimento para (1024,0.250000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.750000
+Tiempo de busqueda con filtro de Bloom: 20438
+Tiempo de busqueda sin filtro de Bloom: 141
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.320312
+Tiempo de busqueda con filtro de Bloom: 11692
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.320312
+Tiempo de busqueda con filtro de Bloom: 10876
+Tiempo de busqueda sin filtro de Bloom: 141
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.320312
+Tiempo de busqueda con filtro de Bloom: 11141
+Tiempo de busqueda sin filtro de Bloom: 156
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.320312
+Tiempo de busqueda con filtro de Bloom: 10782
+Tiempo de busqueda sin filtro de Bloom: 125
+
+------------------------------------------------------------------
+Comienza el experimento para (1024,0.500000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.500000
+Tiempo de busqueda con filtro de Bloom: 18173
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.259766
+Tiempo de busqueda con filtro de Bloom: 13829
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.259766
+Tiempo de busqueda con filtro de Bloom: 13813
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.259766
+Tiempo de busqueda con filtro de Bloom: 13860
+Tiempo de busqueda sin filtro de Bloom: 110
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.259766
+Tiempo de busqueda con filtro de Bloom: 13798
+Tiempo de busqueda sin filtro de Bloom: 125
+
+------------------------------------------------------------------
+Comienza el experimento para (1024,0.750000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.250000
+Tiempo de busqueda con filtro de Bloom: 18548
+Tiempo de busqueda sin filtro de Bloom: 110
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.141602
+Tiempo de busqueda con filtro de Bloom: 16283
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.141602
+Tiempo de busqueda con filtro de Bloom: 16298
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.141602
+Tiempo de busqueda con filtro de Bloom: 16141
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.141602
+Tiempo de busqueda con filtro de Bloom: 29212
+Tiempo de busqueda sin filtro de Bloom: 234
+
+------------------------------------------------------------------
+Comienza el experimento para (1024,1.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 21546
+Tiempo de busqueda sin filtro de Bloom: 112
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 19152
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 19298
+Tiempo de busqueda sin filtro de Bloom: 111
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 19041
+Tiempo de busqueda sin filtro de Bloom: 125
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 18298
+Tiempo de busqueda sin filtro de Bloom: 125
+
+------------------------------------------------------------------
+Comienza el experimento para (4096,0.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.929932
+Tiempo de busqueda con filtro de Bloom: 67848
+Tiempo de busqueda sin filtro de Bloom: 422
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.254639
+Tiempo de busqueda con filtro de Bloom: 18423
+Tiempo de busqueda sin filtro de Bloom: 422
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.254639
+Tiempo de busqueda con filtro de Bloom: 18548
+Tiempo de busqueda sin filtro de Bloom: 422
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.254639
+Tiempo de busqueda con filtro de Bloom: 18617
+Tiempo de busqueda sin filtro de Bloom: 437
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.254639
+Tiempo de busqueda con filtro de Bloom: 18705
+Tiempo de busqueda sin filtro de Bloom: 437
+
+------------------------------------------------------------------
+Comienza el experimento para (4096,0.250000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.750000
+Tiempo de busqueda con filtro de Bloom: 73691
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.213867
+Tiempo de busqueda con filtro de Bloom: 34205
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.213867
+Tiempo de busqueda con filtro de Bloom: 34221
+Tiempo de busqueda sin filtro de Bloom: 468
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.213867
+Tiempo de busqueda con filtro de Bloom: 34409
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.213867
+Tiempo de busqueda con filtro de Bloom: 34674
+Tiempo de busqueda sin filtro de Bloom: 531
+
+------------------------------------------------------------------
+Comienza el experimento para (4096,0.500000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.500000
+Tiempo de busqueda con filtro de Bloom: 75392
+Tiempo de busqueda sin filtro de Bloom: 485
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.162354
+Tiempo de busqueda con filtro de Bloom: 49644
+Tiempo de busqueda sin filtro de Bloom: 468
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.162354
+Tiempo de busqueda con filtro de Bloom: 52924
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.162354
+Tiempo de busqueda con filtro de Bloom: 54806
+Tiempo de busqueda sin filtro de Bloom: 500
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.162354
+Tiempo de busqueda con filtro de Bloom: 53294
+Tiempo de busqueda sin filtro de Bloom: 486
+
+------------------------------------------------------------------
+Comienza el experimento para (4096,0.750000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.250000
+Tiempo de busqueda con filtro de Bloom: 78800
+Tiempo de busqueda sin filtro de Bloom: 576
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.097168
+Tiempo de busqueda con filtro de Bloom: 64823
+Tiempo de busqueda sin filtro de Bloom: 470
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.097168
+Tiempo de busqueda con filtro de Bloom: 62767
+Tiempo de busqueda sin filtro de Bloom: 472
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.097168
+Tiempo de busqueda con filtro de Bloom: 63572
+Tiempo de busqueda sin filtro de Bloom: 629
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.097168
+Tiempo de busqueda con filtro de Bloom: 66108
+Tiempo de busqueda sin filtro de Bloom: 482
+
+------------------------------------------------------------------
+Comienza el experimento para (4096,1.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 76744
+Tiempo de busqueda sin filtro de Bloom: 487
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 77093
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 75079
+Tiempo de busqueda sin filtro de Bloom: 469
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 79273
+Tiempo de busqueda sin filtro de Bloom: 533
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 80102
+Tiempo de busqueda sin filtro de Bloom: 502
+
+------------------------------------------------------------------
+Comienza el experimento para (16384,0.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.232483
+Tiempo de busqueda con filtro de Bloom: 72553
+Tiempo de busqueda sin filtro de Bloom: 437
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 20658
+Tiempo de busqueda sin filtro de Bloom: 1193
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 22560
+Tiempo de busqueda sin filtro de Bloom: 519
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 20834
+Tiempo de busqueda sin filtro de Bloom: 506
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 22271
+Tiempo de busqueda sin filtro de Bloom: 612
+
+------------------------------------------------------------------
+Comienza el experimento para (16384,0.250000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.232483
+Tiempo de busqueda con filtro de Bloom: 160654
+Tiempo de busqueda sin filtro de Bloom: 968
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 100301
+Tiempo de busqueda sin filtro de Bloom: 975
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 99836
+Tiempo de busqueda sin filtro de Bloom: 1197
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 97352
+Tiempo de busqueda sin filtro de Bloom: 1221
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 102860
+Tiempo de busqueda sin filtro de Bloom: 1144
+
+------------------------------------------------------------------
+Comienza el experimento para (16384,0.500000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.232483
+Tiempo de busqueda con filtro de Bloom: 238635
+Tiempo de busqueda sin filtro de Bloom: 1767
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 182246
+Tiempo de busqueda sin filtro de Bloom: 1721
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 185038
+Tiempo de busqueda sin filtro de Bloom: 1562
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 178212
+Tiempo de busqueda sin filtro de Bloom: 1711
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 175021
+Tiempo de busqueda sin filtro de Bloom: 1521
+
+------------------------------------------------------------------
+Comienza el experimento para (16384,0.750000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.232483
+Tiempo de busqueda con filtro de Bloom: 310388
+Tiempo de busqueda sin filtro de Bloom: 2096
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 255346
+Tiempo de busqueda sin filtro de Bloom: 2137
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 256819
+Tiempo de busqueda sin filtro de Bloom: 1886
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 270631
+Tiempo de busqueda sin filtro de Bloom: 2137
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.063660
+Tiempo de busqueda con filtro de Bloom: 269071
+Tiempo de busqueda sin filtro de Bloom: 1942
+
+------------------------------------------------------------------
+Comienza el experimento para (16384,1.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 327039
+Tiempo de busqueda sin filtro de Bloom: 1922
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 319228
+Tiempo de busqueda sin filtro de Bloom: 1975
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 325376
+Tiempo de busqueda sin filtro de Bloom: 2161
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 325854
+Tiempo de busqueda sin filtro de Bloom: 2064
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.000000
+Tiempo de busqueda con filtro de Bloom: 341107
+Tiempo de busqueda sin filtro de Bloom: 2046
+
+------------------------------------------------------------------
+Comienza el experimento para (65536,0.000000)
+m = 100000, k: 0, probabilidad de errores con filtro de bloom:0.058121
+Tiempo de busqueda con filtro de Bloom: 75810
+Tiempo de busqueda sin filtro de Bloom: 564
+
+m = 600000, k: 4, probabilidad de errores con filtro de bloom:0.015915
+Tiempo de busqueda con filtro de Bloom: 21109
+Tiempo de busqueda sin filtro de Bloom: 450
+
+m = 1100000, k: 7, probabilidad de errores con filtro de bloom:0.015915
+Tiempo de busqueda con filtro de Bloom: 19450
+Tiempo de busqueda sin filtro de Bloom: 457
+
+m = 1600000, k: 11, probabilidad de errores con filtro de bloom:0.015915
+Tiempo de busqueda con filtro de Bloom: 19437
+Tiempo de busqueda sin filtro de Bloom: 455
+
+m = 2100000, k: 15, probabilidad de errores con filtro de bloom:0.015915
+Tiempo de busqueda con filtro de Bloom: 20387
+Tiempo de busqueda sin filtro de Bloom: 485

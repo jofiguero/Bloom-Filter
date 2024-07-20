@@ -1,3 +1,6 @@
+#ifndef BF_CPP
+#define BF_CPP
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
@@ -83,8 +86,27 @@ public:
         }
         return true;
     }
+    void print_bit_array() const {
+        std::cout << "[";
+        for (size_t i = 0; i < bitArray.size(); ++i) {
+            std::cout << bitArray[i];
+            if (i != bitArray.size() - 1) {
+                std::cout << ",";
+            }
+        }
+        std::cout << "]" << std::endl;
+    }
+    int count_ones() const {
+        int count = 0;
+        for (bool bit : bitArray) {
+            if (bit) {
+                count++;
+            }
+        }
+        return count;
+    }
 };
-
+#endif
 //int main() {
 //    BloomFilter bf(100, 3, 10); // Crear un filtro de Bloom con un bit array de tamaño 100 y 3 funciones hash
 //
